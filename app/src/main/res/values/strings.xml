@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalYearProject</string>
+    <string name="invigilateIcon">Invigilate Icon</string>
+    <string name="textForCoverPage">Loading…</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginPageTitle">SIGN IN</string>
+    <string name="loginButtonText">LOGIN</string>
+    <string name="textButton">Forgot Password ?</string>
+
+</resources>
